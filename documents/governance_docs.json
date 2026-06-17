@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pol-001",
+    "title": "Política Geral de Proteção de Dados Pessoais",
+    "category": "LGPD",
+    "content": "A empresa adota como princípio fundamental o respeito à privacidade e à proteção dos dados pessoais de colaboradores, clientes e parceiros. Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018), todos os dados pessoais coletados devem ter uma base legal clara e definida, sendo as principais: consentimento do titular, cumprimento de obrigação legal, execução de contrato, interesse legítimo e proteção do crédito. O tratamento de dados sensíveis — como origem racial, convicção religiosa, dado genético, biométrico e informações sobre saúde — exige consentimento específico e destacado do titular. É vedado o tratamento de dados pessoais para fins discriminatórios ou ilícitos."
+  },
+  {
+    "id": "pol-002",
+    "title": "Bases Legais para Tratamento de Dados",
+    "category": "LGPD",
+    "content": "O tratamento de dados pessoais somente poderá ser realizado quando enquadrado em ao menos uma das seguintes hipóteses previstas no Art. 7º da LGPD: (I) mediante consentimento livre, informado e inequívoco do titular; (II) para cumprimento de obrigação legal ou regulatória pelo controlador; (III) pela administração pública para políticas públicas; (IV) para realização de estudos por órgão de pesquisa; (V) para execução de contrato do qual o titular seja parte; (VI) para exercício regular de direitos em processo judicial, administrativo ou arbitral; (VII) para proteção da vida ou incolumidade física do titular ou de terceiro; (VIII) para tutela da saúde; (IX) quando necessário para atender aos interesses legítimos do controlador ou de terceiros; (X) para proteção do crédito. A empresa deve documentar em registro formal qual base legal fundamenta cada atividade de tratamento."
+  },
+  {
+    "id": "pol-003",
+    "title": "Direitos dos Titulares de Dados",
+    "category": "LGPD",
+    "content": "A empresa garante o exercício pleno dos direitos dos titulares conforme Art. 18 da LGPD. O titular tem direito a: (1) Confirmação da existência de tratamento; (2) Acesso aos dados; (3) Correção de dados incompletos, inexatos ou desatualizados; (4) Anonimização, bloqueio ou eliminação de dados desnecessários ou excessivos; (5) Portabilidade dos dados a outro fornecedor mediante requisição expressa; (6) Eliminação dos dados pessoais tratados com consentimento, exceto nas hipóteses legais de conservação; (7) Informação sobre o compartilhamento com entidades públicas e privadas; (8) Informação sobre a possibilidade de não fornecer consentimento e as consequências; (9) Revogação do consentimento. Todas as requisições devem ser respondidas em até 15 dias úteis. O canal oficial para exercício de direitos é o e-mail privacidade@empresa.com.br."
+  },
+  {
+    "id": "pol-004",
+    "title": "Encarregado de Proteção de Dados (DPO)",
+    "category": "Governança",
+    "content": "O Encarregado pelo Tratamento de Dados Pessoais (Data Protection Officer - DPO) é o responsável por atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD). As responsabilidades do DPO incluem: aceitar reclamações e comunicações dos titulares, prestando esclarecimentos e adotando providências; receber comunicações da ANPD e adotar providências; orientar os funcionários e os contratados sobre as práticas a serem tomadas em relação à proteção de dados pessoais; executar as demais atribuições determinadas pelo controlador ou estabelecidas em normas complementares. O DPO atual é indicado formalmente pela Diretoria Executiva e sua identidade e dados de contato são tornados públicos no site da empresa."
+  },
+  {
+    "id": "pol-005",
+    "title": "Relatório de Impacto à Proteção de Dados (RIPD)",
+    "category": "Governança",
+    "content": "O Relatório de Impacto à Proteção de Dados Pessoais (RIPD) é um documento que descreve os processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais. A elaboração do RIPD é obrigatória nas seguintes situações: tratamento de dados sensíveis em larga escala; monitoramento sistemático de áreas acessíveis ao público; tratamento que use novas tecnologias; tratamento de dados de crianças e adolescentes em plataformas digitais. O RIPD deve conter: descrição dos tipos de dados, métodos de coleta, finalidade do tratamento, análise de necessidade e proporcionalidade, riscos identificados e medidas de mitigação. O documento deve ser revisado anualmente ou sempre que houver mudanças significativas nos processos de tratamento."
+  },
+  {
+    "id": "pol-006",
+    "title": "Política de Retenção e Descarte de Dados",
+    "category": "Governança",
+    "content": "Os dados pessoais serão mantidos apenas pelo período necessário para cumprir as finalidades para as quais foram coletados ou conforme exigido por lei. Os prazos de retenção são: dados de clientes ativos — pelo período da relação contratual mais 5 anos após encerramento; dados de colaboradores — pelo período do vínculo empregatício mais 5 anos, ou 20 anos para dados previdenciários; dados de candidatos não selecionados — 90 dias após encerramento do processo seletivo; dados de visitantes — 30 dias; registros de logs de acesso a sistemas — 6 meses conforme Marco Civil da Internet. Após expirado o prazo de retenção, os dados devem ser eliminados de forma segura usando técnicas de sanitização certificadas (DoD 5220.22-M ou equivalente), ou anonimizados de forma irreversível. O responsável pelo processo de descarte deve emitir um Certificado de Destruição de Dados."
+  },
+  {
+    "id": "pol-007",
+    "title": "Gestão de Incidentes de Segurança com Dados Pessoais",
+    "category": "Segurança",
+    "content": "Em caso de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, a empresa deve comunicar o ocorrido à ANPD e ao titular em prazo razoável, conforme definido pela autoridade, a partir do conhecimento do incidente. A notificação deve conter: (I) descrição da natureza dos dados pessoais afetados; (II) informações sobre os titulares envolvidos; (III) indicação das medidas técnicas e de segurança utilizadas; (IV) riscos relacionados ao incidente; (V) motivos da demora, se a comunicação não tiver sido imediata; (VI) medidas que foram ou serão adotadas para reverter ou mitigar os efeitos do prejuízo. O time de resposta a incidentes (CSIRT) deve ser acionado imediatamente. O prazo máximo para comunicação à ANPD é de 72 horas após a ciência do incidente."
+  },
+  {
+    "id": "pol-008",
+    "title": "Transferência Internacional de Dados",
+    "category": "LGPD",
+    "content": "A transferência internacional de dados pessoais somente é permitida para países ou organismos internacionais que proporcionem grau de proteção de dados pessoais adequado ao previsto na LGPD. É permitida a transferência quando: o país de destino é reconhecido pela ANPD como tendo nível adequado de proteção; o controlador oferecer garantias mediante cláusulas contratuais específicas (SCCs - Standard Contractual Clauses); normas corporativas globais forem aprovadas pela ANPD (Binding Corporate Rules - BCRs); a transferência for necessária para cooperação jurídica internacional; ou mediante consentimento específico do titular, com informação prévia sobre o caráter internacional da operação. É proibida a transferência para fins de vigilância de massas ou discriminação ilegal. O registro de todas as transferências internacionais deve constar no Registro de Atividades de Tratamento."
+  },
+  {
+    "id": "pol-009",
+    "title": "Privacy by Design e Privacy by Default",
+    "category": "Governança",
+    "content": "A empresa adota os princípios de Privacidade desde a Concepção (Privacy by Design) e Privacidade como Padrão (Privacy by Default) em todos os seus projetos, produtos e serviços. Privacy by Design significa que a privacidade é incorporada ao projeto e à arquitetura de sistemas e práticas de negócio desde o início, não como um complemento. Os sete princípios são: (1) Proativo, não reativo; preventivo, não corretivo; (2) Privacidade como padrão incorporado; (3) Privacidade incorporada no design; (4) Funcionalidade total — soma positiva, não soma zero; (5) Segurança de ponta a ponta — proteção do ciclo de vida completo; (6) Visibilidade e transparência; (7) Respeito pela privacidade do usuário. Privacy by Default significa que as configurações padrão dos sistemas devem ser sempre as mais restritivas possíveis em termos de coleta e compartilhamento de dados."
+  },
+  {
+    "id": "pol-010",
+    "title": "Compartilhamento de Dados com Terceiros e Operadores",
+    "category": "Governança",
+    "content": "O compartilhamento de dados pessoais com terceiros (operadores) somente pode ocorrer mediante contrato escrito que estabeleça: a finalidade do tratamento pelo operador; as instruções de segurança a serem seguidas; a proibição de subcontratação sem anuência prévia do controlador; a obrigação de notificação de incidentes; a devolução ou eliminação dos dados ao término do contrato. O operador responde solidariamente pelos danos causados quando descumprir as obrigações da LGPD ou quando não seguir as instruções lícitas do controlador. Todos os contratos com fornecedores que tratam dados pessoais devem incluir um Adendo de Proteção de Dados (DPA - Data Processing Agreement). O cadastro de operadores autorizados deve ser mantido atualizado pelo time de Governança de Dados."
+  },
+  {
+    "id": "pol-011",
+    "title": "Treinamento e Conscientização em Proteção de Dados",
+    "category": "Governança",
+    "content": "Todos os colaboradores que tenham acesso a dados pessoais devem realizar, obrigatoriamente, o treinamento de Proteção de Dados e LGPD ao ingressar na empresa e anualmente. O programa de treinamento inclui: fundamentos da LGPD; identificação de dados pessoais e dados sensíveis; bases legais e finalidades lícitas de tratamento; direitos dos titulares e como processá-los; procedimentos de resposta a incidentes; uso seguro de e-mail e sistemas internos; engenharia social e phishing. A taxa de conclusão do treinamento deve ser monitorada mensalmente pelo time de Compliance. Colaboradores que não concluírem o treinamento no prazo estabelecido terão o acesso aos sistemas restringido até a regularização. O não cumprimento recorrente pode resultar em medida disciplinar."
+  },
+  {
+    "id": "pol-012",
+    "title": "Registro de Atividades de Tratamento (RAT)",
+    "category": "Governança",
+    "content": "O Registro de Atividades de Tratamento (RAT), também chamado de ROPA (Record of Processing Activities), é um documento obrigatório que inventaria todas as atividades de tratamento de dados pessoais realizadas pela empresa na posição de controlador. Cada registro deve conter: nome e dados de contato do controlador e do DPO; finalidades do tratamento; categorias de titulares e de dados pessoais; categorias de destinatários; transferências internacionais e garantias aplicáveis; prazos previstos para eliminação; descrição geral das medidas de segurança técnicas e organizacionais. O RAT deve ser mantido em formato eletrônico, estar sempre atualizado e disponível para apresentação à ANPD quando solicitado. A revisão completa do RAT deve ser realizada semestralmente pelo time de Governança de Dados com apoio das áreas de negócio."
+  }
+]
